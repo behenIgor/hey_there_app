@@ -7,3 +7,4 @@ changes to different random colors. The background and AppBar colors differ.
  to the default white, and the AppBar to default blue.
  - And after taping to FloatingActionButton, while the screen is white, it becomes colored. But
  when you press again, the color becomes a default.
+ - FloatingActionButton, during exploitation, changes his icon and color.
